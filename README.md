@@ -1,1 +1,1 @@
-![alt text](https://github.com/Bhappy110/Bhappy110/blob/main/git.png | width = 100)
+![alt text](https://github.com/Bhappy110/Bhappy110/blob/main/git.png | width=100)
